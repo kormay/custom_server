@@ -1,1 +1,1 @@
-# custom_server
+python3 WSGIServer demo:app
